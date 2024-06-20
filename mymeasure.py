@@ -160,6 +160,9 @@ def comp_joint_prob(uid2refs, uid2hyps):
     
     return p_xy, ref2pid, hyp2lid, tot, abs_frmdiff, skipped, allp_xy
 
+##################################
+#   DATA PROCESSINNG FUNCTIONS   #
+##################################
 
 def read_phn(tsv_path, rm_stress=True):
     uid2phns = {}
