@@ -1,6 +1,8 @@
 # Rewrite the purity and detailed analysis code
 
-Modified from https://github.com/facebookresearch/fairseq/blob/main/examples/hubert/measure_teacher_quality.py but add detailes and phonetic knowledge.
+Modified from https://github.com/facebookresearch/fairseq/blob/main/examples/hubert/measure_teacher_quality.py but add details and phonetic knowledge.
+
+Demo site: https://app-oadao7aowuruiygk8wghud.streamlit.app/
 
 ![image](https://github.com/jeffeuxMartin/mymeasure/assets/43311603/988584d0-ec53-4827-b2da-0f7a5b37b17f)
 
